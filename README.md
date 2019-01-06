@@ -26,3 +26,9 @@ Visualization:
 Deep learning:
    * [Deep Learning, An MIT Press book](http://www.deeplearningbook.org/)
    * [CS231n](http://cs231n.stanford.edu/)
+
+News:
+   * [Towards Data Scence](https://towardsdatascience.com/machine-learning/home)
+   * [The Official Blog of Kaggle.com](http://blog.kaggle.com/)
+   * [Reddit (r/MachineLearning)](https://www.reddit.com/r/MachineLearning/)
+   * [Reddit (r/deeplearning)](https://www.reddit.com/r/deeplearning/)
