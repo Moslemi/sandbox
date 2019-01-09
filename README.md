@@ -32,3 +32,10 @@ News:
    * [The Official Blog of Kaggle.com](http://blog.kaggle.com/)
    * [Reddit (r/MachineLearning)](https://www.reddit.com/r/MachineLearning/)
    * [Reddit (r/deeplearning)](https://www.reddit.com/r/deeplearning/)
+   
+Podcast:
+   * [Learning Machines 101](http://lineardigressions.com/)
+   * [TWiML&AI](https://twimlai.com/)
+   * [Data Skeptic](http://dataskeptic.com/)
+   * [Linear Digression](http://lineardigressions.com/)
+   
