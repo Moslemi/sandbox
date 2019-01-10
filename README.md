@@ -4,6 +4,7 @@
 
 1. [Breast Cancer Wisconsin](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 2. [Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)
+3. [PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction)
 
 
 ### Resources which I use to learn:
