@@ -26,6 +26,7 @@ Visualization:
 Deep learning:
    * [Deep Learning, An MIT Press book](http://www.deeplearningbook.org/)
    * [CS231n](http://cs231n.stanford.edu/)
+   * [fast.ai](https://www.fast.ai/)
 
 News:
    * [Towards Data Scence](https://towardsdatascience.com/machine-learning/home)
