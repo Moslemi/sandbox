@@ -14,6 +14,7 @@ Machine learning:
    * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
    * [Papers with Code](https://github.com/zziz/pwc)
    * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+   * [Machine Learning tips and tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
    
 Mathematics:
    * [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
