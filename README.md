@@ -42,5 +42,5 @@ Podcast:
    * [Linear Digression](http://lineardigressions.com/)
    
 Forum:
-    * [StackExchange Data Science](https://datascience.stackexchange.com/)
+   * [StackExchange Data Science](https://datascience.stackexchange.com/)
    
