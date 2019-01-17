@@ -2,7 +2,7 @@
 
 ### My ongoing projects:
 
-1. [Breast Cancer Wisconsin](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+1. [fast.ai course](https://course.fast.ai/)
 2. [Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)
 3. [PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction)
 
@@ -40,4 +40,7 @@ Podcast:
    * [TWiML&AI](https://twimlai.com/)
    * [Data Skeptic](http://dataskeptic.com/)
    * [Linear Digression](http://lineardigressions.com/)
+   
+Forum:
+    * [StackExchange Data Science](https://datascience.stackexchange.com/)
    
