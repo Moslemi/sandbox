@@ -43,4 +43,11 @@ Podcast:
    
 Forum:
    * [StackExchange Data Science](https://datascience.stackexchange.com/)
+      
+Dataset:
+   * [Kaggle](https://www.kaggle.com/datasets)
+   * [Medical data for machine leraning](https://github.com/beamandrew/medical-data)
    
+Resources:
+   * [Papers with code](https://paperswithcode.com/sota)
+   * [zziz](https://github.com/zziz/pwc)
