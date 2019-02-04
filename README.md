@@ -12,8 +12,6 @@
 Machine learning:
    * [3Blue1Brown](https://www.3blue1brown.com/)
    * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
-   * [Papers with Code](https://github.com/zziz/pwc)
-   * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
    * [Machine Learning tips and tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
    
 Mathematics:
@@ -51,3 +49,4 @@ Dataset:
 Resources:
    * [Papers with code](https://paperswithcode.com/sota)
    * [zziz](https://github.com/zziz/pwc)
+   * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
