@@ -3,8 +3,7 @@
 ### My ongoing projects:
 
 1. [fast.ai course](https://course.fast.ai/)
-2. [Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)
-3. [PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction)
+2. [PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction)
 
 
 ### Resources which I use to learn:

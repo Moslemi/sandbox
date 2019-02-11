@@ -33,6 +33,10 @@ window.open('data:text/csv;charset=utf-8,' + escape(urls.join('\n')));
 
    1. On video Jeremy shown **FileDeleter**, but now FileDeleter was **removed** in favor of two new widgets: **ImageDeleter** and **ImageRelabeler**. ImageDeleter is essentially the same as the old FileDeleter.
    2. Notice that the widget will **not delete images directly from disk** but it will create a new csv file **cleaned.csv** from where I can create a new ImageDataBunch with the corrected labels to continue training my model.
+   3. In production's predictions, it is better to use CPU than GPU, because it is cheaper and can do the prediction of single data when GPU needs to wait for a full batch of data.
+   4. When learning rate is big, valid loss is big too.
+   5. If your learning rate is too small is that your training loss will be higher than your validation loss. You never want a model where your training loss is higher than your validation loss. That always means you haven't fitted enough which means either your learning rate is too low or your number of epochs is too low.
+   6. Any morel that is trained correctly will always have train loss lower than validation loss. That is not a sign of overfitting.
 
 #### Other resources:
 
