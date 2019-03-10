@@ -25,10 +25,10 @@
    - [**vision.data**](https://docs.fast.ai/vision.data.html) - function to get a DataBunch;
    - [**class DataBunch**](https://docs.fast.ai/basic_data.html#DataBunch) - A DataBunch is something which binds together a training data loader (train_dl) and a valid data loader (valid_dl);
    - An interesting points about:
-       -> **transform**:
+       - **transform**:
            * for simple classificaton (dog vs cat): transforms by default will flip randomly each image, but they'll actually randomly only flip them horizontally. It is okey,
            * for classification for satellite imagery whether something's cloudy or hazy or whether there's a road there or not, could absolutely be flipped upside down;
-       -> **wrap** (innovation):
+       - **wrap** (innovation):
            * looking at the object from different perspective;
    - [**accuracy thresh**](https://docs.fast.ai/metrics.html#accuracy_thresh) - metrics from fastai;
    - [**SegmentationLabelList**](https://docs.fast.ai/vision.data.html#SegmentationItemList) - ItemList suitable for segmentation tasks;
@@ -40,13 +40,13 @@
 
 #### Tips:
 
-   1. Progressive resizing - we should deliberately make a lot of smaller datasets to step up from in tuning, because you can train much faster, it generalizes better (CV technic).
-   2. U-Net - better than CNN for segmentation problems.
-   3. Correctly classified pixels / total number of pixels - accuracy mean for pixel wise segmentation.
-   4. Mixed precision training - it'll work about twice as fast as otherwise than casual approach, because it will use less GPU RAM. But you must have latest GPU for example RTX 2080 Ti from NVIDIA with latest drivers.
-   5. Tokenization - it takes those words and converts them into a standard form of tokens (NLP technic).
-   6. Numericalization - take a complete unique list of all of the possible tokens (NLP technic).
-   7. If you’re using a pretrained model you need to use the same stats it was trained with.
+   1. **Progressive resizing** - we should deliberately make a lot of smaller datasets to step up from in tuning, because you can train much faster, it generalizes better (CV technic).
+   2. **U-Net** - better than CNN for segmentation problems.
+   3. Correctly classified pixels / total number of pixels - **accuracy mean for pixel wise segmentation**.
+   4. **Mixed precision training** - it'll work about twice as fast as otherwise than casual approach, because it will use less GPU RAM. But you must have latest GPU for example RTX 2080 Ti from NVIDIA with latest drivers.
+   5. **Tokenization** - it takes those words and converts them into a standard form of tokens (NLP technic).
+   6. **Numericalization** - take a complete unique list of all of the possible tokens (NLP technic).
+   7. If you’re using a pretrained model you need to use the same **stats** it was trained with.
 
 #### Other resources:
 
