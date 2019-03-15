@@ -13,6 +13,7 @@
 
    * [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)
    * [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
+   * [COCO](http://cocodataset.org/#download)
    * [IMDB](http://ai.stanford.edu/~amaas/data/sentiment/)
    * [BIWI head pose](https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html#db)
 
@@ -23,6 +24,7 @@
 
    - [**vision.transform**](https://docs.fast.ai/vision.transform.html#List-of-transforms) - list of transform for data augumentation in fastai;
    - [**vision.data**](https://docs.fast.ai/vision.data.html) - function to get a DataBunch;
+   - [**dataloader**](https://pytorch.org/docs/stable/_modules/torch/utils/data/dataloader.html) - combines dataset and sampler;
    - [**class DataBunch**](https://docs.fast.ai/basic_data.html#DataBunch) - A DataBunch is something which binds together a training data loader (train_dl) and a valid data loader (valid_dl);
    - An interesting points about:
        - **transform**:
@@ -35,6 +37,7 @@
    - [**to_fp16**](https://docs.fast.ai/basic_train.html#to_fp16) - trains model in 16-bit precision;
    - [**TextClasDataBunch**](https://docs.fast.ai/text.data.html#TextClasDataBunch) - create DataBunch from text;
    - [**language_model_learner**](https://docs.fast.ai/text.learner.html#language_model_learner) - create a Learner with a language model from data and arch;
+   - [**open_mask()**](https://docs.fast.ai/vision.image.html#open_mask) - show image mask (contains integer)
 
 
 
