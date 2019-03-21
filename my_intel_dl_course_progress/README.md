@@ -1,0 +1,1 @@
+[Intel course - Deep Learning](https://software.intel.com/en-us/ai/courses/deep-learning)
