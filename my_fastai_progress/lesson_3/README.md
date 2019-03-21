@@ -38,8 +38,8 @@
    - [**TextClasDataBunch**](https://docs.fast.ai/text.data.html#TextClasDataBunch) - create DataBunch from text;
    - [**language_model_learner**](https://docs.fast.ai/text.learner.html#language_model_learner) - create a Learner with a language model from data and arch;
    - [**open_mask()**](https://docs.fast.ai/vision.image.html#open_mask) - show image mask (contains integer)
-
-
+   - [**activation functions in NN by Sagar Sharma**](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
+   ![AF in NN by Sagar](image/sagar.png)
 
 #### Tips:
 
