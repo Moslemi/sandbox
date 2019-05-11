@@ -46,6 +46,9 @@
    3. For tabular data Pandas dataframe is enough;
    4. In collab filtering you tought **spare matrix**;
    5. **Cold start problem** - problem with new people or thing in your system, when you don not have enought inforation and you do not make prediction (metadata is solution);
+   6. **No activation function changes the size﹣it only changes the contents**;
+   7. weight matrix → ReLU → weight matrix → ReLU → weight matrix → final output
+   ![Scheme by Jeremy Howard; dowlnoaded from hiromis](image/lesson_4.png)
 
 #### Other resources:
 
