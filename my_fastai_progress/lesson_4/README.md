@@ -21,23 +21,23 @@
 
 #### My notes:
 
-   - [**N-grams**] - how often do these pairs or triplets of words tend to appear next to each other;
-   - [**Wikitext 103**] - simply a subset of most of the largest articles from Wikipedia with a little bit of pre-processing;
-   - [**Corpus**] - a bunch of documents (emails, tweets, medical reports, etc.);
+   - **N-grams** - how often do these pairs or triplets of words tend to appear next to each other;
+   - **Wikitext 103** - simply a subset of most of the largest articles from Wikipedia with a little bit of pre-processing;
+   - **Corpus** - a bunch of documents (emails, tweets, medical reports, etc.);
    - [**CollabDataBunch**](https://docs.fast.ai/collab.html#CollabDataBunch) - base DataBunch for collaborative filtering;
    - [**collab_learner**](https://docs.fast.ai/collab.html#Model-and-Learner) - learner suitable for collaborative filtering;
    - [**label_for_lm**](https://docs.fast.ai/text.data.html#TextList.label_for_lm)
    - [**fastai.tabular**](https://docs.fast.ai/tabular.html)
-   - [**categorial variable**] - discrete group, for example: gender: female, male;
-   - [**continuous variable**] - it is for example age - 17 years old, 85 years old;
+   - **categorial variable** - discrete group, for example: gender: female, male;
+   - **continuous variable** - it is for example age - 17 years old, 85 years old;
    - [**processor (in TabularList.from_df)**](https://docs.fast.ai/tabular.data.html#TabularProcessor) - like a transformation in CV, but happens once, ahead of time. In fastai library we have a number of processes. For example: 
        * FillMissing - look for missing values and deal with them some way,
        * Categorify - find categorical variables and turn them into Pandas categories,
        * Normalize - normalization ahead of time which is to take continuous variables and subtract their mean and divide by their standard deviation so they are zero-one variables;
    - [**tabular_learner**](https://docs.fast.ai/tabular.data.html#tabular_learner) - learner for tabular data;
-   - [**collab filtering**] - where you heve information about for example who bought what - product ID and user ID;
+   - **collab filtering** - where you heve information about for example who bought what - product ID and user ID;
    - [**collab_learner**](https://docs.fast.ai/collab.html#collab_learner) - learninr for collab filtering problems;
-   - [**embeddings**] - a matrix of weights
+   - **embeddings** - a matrix of weights
 
 #### Tips:
 
