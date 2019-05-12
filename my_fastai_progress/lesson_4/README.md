@@ -48,6 +48,9 @@
    5. **Cold start problem** - problem with new people or thing in your system, when you don not have enought inforation and you do not make prediction (metadata is solution);
    6. **No activation function changes the size﹣it only changes the contents**;
    7. weight matrix → ReLU → weight matrix → ReLU → weight matrix → final output
+   
+   Activations and parameters are numbers, but **parameters** are numbers that are stored, they are used to make a calculation. **Activations** are the result of a calculation.
+   
    ![Scheme by Jeremy Howard; dowlnoaded from hiromis](image/lesson_4.png)
 
 #### Other resources:
