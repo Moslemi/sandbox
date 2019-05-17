@@ -3,7 +3,7 @@
 ### My ongoing projects:
 
 1. [fast.ai course](https://course.fast.ai/)
-2. [Intel course - Deep Learning](https://software.intel.com/en-us/ai/courses/deep-learning)
+2. Study projects (deep learning, hpc, math)
 
 ### Resources which I use to learn:
 
