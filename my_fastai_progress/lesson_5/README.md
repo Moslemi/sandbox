@@ -42,7 +42,7 @@
    5. [**Momentum**](https://www.quora.com/What-exactly-is-momentum-in-machine-learning) - metods in the context of machine learning;
     "You were here and your learning rate was too small, and you just keep doing the same steps. Or if you keep doing the same steps, then if you also add in the step you took last time, and your steps are going to get bigger and bigger until eventually they go too far. But now, of course, your gradient is pointing the other direction to where your momentum is pointing. So you might just take a little step over here, and then you'll start going small steps, bigger steps, bigger steps, small steps, bigger steps, like that. That's kind of what momentum does."
     
-    ![Momentum scheme by Jeremy Howard; dowlnoaded from hiromis](images/momentum.gif)
+   ![Momentum scheme by Jeremy Howard; dowlnoaded from hiromis](images/momentum.gif)
     
    6. **Exponentially weighted moving average** - \begin{align} S_{t}=\alpha\cdot g+(1-\alpha )S_{t-1} \end{align}
    7. **RMSProp** - created by Geoffrey Hinton. Similar to momentum but in this way exponentially weighted moving average updates gradient squared; "If my gradient is really small and consistently really small, this will be a small number. If my gradient is highly volatile, it's going to be a big number. Or if it's just really big all the time, it'll be a big number".
