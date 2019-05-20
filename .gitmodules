@@ -1,0 +1,3 @@
+[submodule "ICM_studies/first_semester_projects/deep_learning/sign_language_digits/Sign-Language-Digits-Dataset"]
+	path = ICM_studies/first_semester_projects/deep_learning/sign_language_digits/Sign-Language-Digits-Dataset
+	url = https://github.com/ardamavi/Sign-Language-Digits-Dataset
