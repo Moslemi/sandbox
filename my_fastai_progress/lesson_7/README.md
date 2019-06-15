@@ -12,8 +12,8 @@
 #### Data set, which I used:
 
    * [MNIST](http://yann.lecun.com/exdb/mnist/);
-   * [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
-   * [LSUN bedroom scene](https://www.kaggle.com/jhoward/lsun_bedroom/data)
+   * [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/);
+   * [LSUN bedroom scene](https://www.kaggle.com/jhoward/lsun_bedroom/data);
 
    Problem:  Resnets from scratch, U-net, GAN.
 
