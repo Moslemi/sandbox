@@ -27,7 +27,7 @@
        
         ![Residual learning](images/residual_learning.png)
            
-           -> Output = Conv2(Conv1(x)) instead Output = x + Conv2(Conc1(x));
+        `Output = Conv2(Conv1(x)) instead Output = x + Conv2(Conc1(x))`;
 
 
    - **skip / identity connection** - 56 layers worth of convolutions in that has to be at least good as the 20 layer version because it could always just set conv2 and conv1 to a bunch of 0 weights for everything except for the first 20 layers because the X (i.e. the input) could just go straight through;
