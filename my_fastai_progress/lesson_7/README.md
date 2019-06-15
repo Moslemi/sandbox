@@ -42,7 +42,7 @@
    - **U-Net** - Convolutional Networks for Biomedical Image Segmentation;
    - **parallel** is a function, which run another function in parallel;
    - [**GANLearner**](https://docs.fast.ai/vision.gan.html#GANLearner) - learner for GAN. GANLearner have interesting parameter: weights_gen=(1.,50.) is that, what we actually do is we don't only use the critic as the loss function;
-   - **RNN** - Recurrent Neural Nerwork:
+   - [**RNN**](https://en.wikipedia.org/wiki/Recurrent_neural_network) - Recurrent Neural Nerwork:
    
        ![RNN](images/rnn_with_code.png)
    
